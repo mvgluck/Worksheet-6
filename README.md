@@ -1,6 +1,7 @@
 # Worksheet-6
 1.	In your own words, what is version (or source) control?
 Version control software allows a user or users to save every version or edition of a document, program, and other kinds of information. It provides a timestamp for each version and enables the user to move backwards and forwards from version to version instead of erasing changes.
+
 2.	Explain the difference between Git and GitHub.
 Git is the software for managing version control. Github is the host or server for gits – or copies of gits(?) – with repositories where you can see others’ gits and share one’s own. 
 3.	In a few sentences, explain what a "commit" is?
