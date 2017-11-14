@@ -1,7 +1,6 @@
 # Worksheet-6
 1.	In your own words, what is version (or source) control?
 Version control software allows a user or users to save every version or edition of a document, program, and other kinds of information. It provides a timestamp for each version and enables the user to move backwards and forwards from version to version instead of erasing changes.
-
 2.	Explain the difference between Git and GitHub.
 Git is the software for managing version control. Github is the host or server for gits – or copies of gits(?) – with repositories where you can see others’ gits and share one’s own. 
 3.	In a few sentences, explain what a "commit" is?
@@ -15,4 +14,4 @@ Cloning a git repository is making a copy of a repository so that you can work o
 7.	Find an example of Git being used for a peer production project. In several paragraphs answer the following: Who are they? What do they do? Who maintains the repository? What are the rules for contributing?
 https://github.com/ncbi is the git for the National Center for Biotechnology Information, which is based in DC. The organization is, according to their website, devoted to advancing science by providing access to biomedical and genomic information. Interestingly, their mission is predicated on sharing information. They maintain a database and encourage submission of data on relevant topics. An example of something they have on their github is “Python package for analyzing hydroxyl-radical footprinting experiments of protein-DNA complexes,” so they share coding for their analyses.
 All of the members (17 people) seem to be employees at the NCBI. These 17 people account for most of the contributions and so are likely the only ones allowed to contribute. It’s not clear who maintains the repository, it seems to be a collaboration among employees.
-8.	Submit this worksheet (in .txt or .md plain text format) by filing a pull request to our Github repository.
+
